@@ -1,4 +1,6 @@
 # Algorithmic_Trading_Bot
+The Algorithmic trading bot is a bot that leanrs and adapts to new data and evolving markets by combining algorithmic trading skills
+with financial Python programming and machine learning.
 
 ## Performance Conclusions
 The following image of our cumulative return plot shows actual returns vs. the strategy returns.
