@@ -14,7 +14,7 @@ This project uses Python in addition several different add-ons, please make sure
 
 * [Matplotlib 4.0](https://matplotlib.org/) - For plotting graphs and charts that appear below the code.
 
-
+* [scikit-learn 1.1](https://scikit-learn.org/stable/) - Tools for predictive Data analysis
 
 ## Performance Conclusions
 The following image of our cumulative return plot shows actual returns vs. the strategy returns.
