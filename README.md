@@ -3,7 +3,7 @@
 ## Performance Conclusions
 The following image of our cumulative return plot shows actual returns vs. the strategy returns.
 
-![Pandas Logo](images/cumretplot.png)
+![cumulative return plot](images/cumretplot.png)
 
 The following image is the first alternative plot. In this plot the data has been sliced into different periods. The time period has been
 doubled from 3 months in the previous plot to 6 months. The conclusion for this adjustment is the selling predictions precision has been negatively
@@ -17,3 +17,8 @@ and plot we can see that once again the selling precision has been affected nega
 ideally we would want a more balanced algorithm.
 
 ![alternative image 2](images/alternative2.png)
+
+At this time our findings show that the original parameters worked best although i believe with more testing we would learn that
+historically the more time and data available for the machine to learn the more accurate the algorithm becomes.
+
+![cumulative return plot](images/cumretplot.png)
