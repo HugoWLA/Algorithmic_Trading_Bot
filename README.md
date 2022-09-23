@@ -38,3 +38,12 @@ At this time our findings show that the original parameters worked best although
 historically the more time and data available for the machine to learn the more accurate the algorithm becomes.
 
 ![cumulative return plot](images/cumretplot.png)
+
+# License
+[MIT](license)
+
+## Contributers
+Hugo Velazquez
+
+linkedin.com/in/hugoghvelazquez
+
