@@ -2,6 +2,20 @@
 The Algorithmic trading bot is a bot that leanrs and adapts to new data and evolving markets by combining algorithmic trading skills
 with financial Python programming and machine learning.
 
+## Technologies
+
+This project uses Python in addition several different add-ons, please make sure they are up to date.
+
+* [pandas 1.4.3](https://github.com/pandas-dev/pandas/blob/main/README.md) - cv files and operations.
+
+* [hvplot v0.8.0](https://qithub.com/holoviz/hvplot#readme) - interactive plots
+
+* [numpy](https://https://numpy.org/) - Loaded in, not used in the framework, but could be used in future editions.
+
+* [Matplotlib 4.0](https://matplotlib.org/) - For plotting graphs and charts that appear below the code.
+
+
+
 ## Performance Conclusions
 The following image of our cumulative return plot shows actual returns vs. the strategy returns.
 
